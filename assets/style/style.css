@@ -30,11 +30,11 @@ img {
 }
 
 .divRight {
+    width: 34%;
+    height: 70%;
     display:inline;
     float: right;
     background:beige;
-    width: 34%;
-    height: 70%;
     padding: 1%;
     margin: .5%;
     font-size: 1.5vw;
